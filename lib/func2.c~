@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include "func2.h"
 
 void pooh2(){
 	printf("function2_pooh2_jisu\n");
