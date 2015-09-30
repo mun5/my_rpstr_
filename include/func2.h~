@@ -1,0 +1,8 @@
+#ifndef _FUNC2_H_
+#define _FUNC2_H_ "func2.h"
+
+void pooh2();
+
+#endif
+
+#include _FUNC2_H_
