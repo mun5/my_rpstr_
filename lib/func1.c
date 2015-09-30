@@ -3,6 +3,7 @@
 void pooh1(){
 	printf("function1_pooh1_jisu\n");
 	printf("function1_pooh1_jisu\n");
-	printf("wowwoowow");
-	printf("dfkjsleij2222222222");
+	printf("..........11");
+	printf("22");
+	printf("mmmmmmodify");
 }
